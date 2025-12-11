@@ -5,6 +5,14 @@ A simple password generator app created with React JS
 
 
 
+## Features
+
+- You can click on the password to copy it
+- Dark mode
+- Live previews
+- Cross platform
+
+
 ## Run Locally
 
 Clone the project
@@ -35,4 +43,9 @@ Start the server
 ## Authors
 
 - [@paulgr98](https://github.com/paulgr98)
+
+
+## License
+
+[GNU GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
